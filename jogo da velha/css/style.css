@@ -1,0 +1,26 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.espaco{
+    width: 80px;
+    height: 76px;
+    border: 2px solid #000;
+    float: left;
+    text-align: center;
+    padding-top: 4px;
+}
+.tabuleiro{
+    width: 252px;
+    height: 252px;
+    margin: auto;
+    margin-top: 150px;
+}
+
+#nome{
+    color: rgb(180, 109, 247);
+    margin-top: 2.5%;
+    text-align: center;
+    border: black;
+}
